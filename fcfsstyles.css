@@ -1,0 +1,36 @@
+.navbar-brand img {
+    border-radius: 100%;
+  }
+  
+  body {
+    background-color: rgb(216, 159, 247);
+  }
+  
+  .navbar {
+    border-bottom: 1.5px solid #da2dbd;
+  }
+  
+  .jumbotron {
+    border: 1.5px solid #da2dbd;
+  }
+  
+  footer{
+      border-top: 1.5px solid #da2dbd;
+  }
+  
+  fresh th {
+    background: linear-gradient(rgb(211, 114, 220), rgb(207, 136, 189));
+    text-align: left;
+    border: 1px solid black;
+    height: 400 px;
+  }
+  fresh td {
+    border: 1px solid rgb(12, 12, 12);
+    border-bottom: 0;
+    /*border-right: 0;*/
+    height: 20px;
+    text-align: left;
+  }
+  #curtain {
+    background-color: rgb(247, 243, 243);
+  }
